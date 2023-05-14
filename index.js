@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 const expressEjsLayouts = require('express-ejs-layouts');
 require('./config/mongoose');
-
+ 
 
 
 
